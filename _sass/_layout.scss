@@ -33,9 +33,8 @@ main {
     > li {
         line-height: 1.75;
         span {
-            color: $meta-color;
+            color: $text-color;
             margin-right: 1.5rem;
-            font-size: $small-font-size;
         }
         a {
             color: $text-color;
@@ -46,15 +45,27 @@ main {
 .post {
     position: relative;
     .post-header {
-        text-align: center;
         margin-bottom: 0;
+        font-weight: 600;
     }
     .post-meta {
         margin: 0;
-        text-align: center;
         color: $meta-color;
-        font-size: $small-font-size;
     }
+}
+.previous {
+    margin-right: 2.2rem;
+}
+.caption {
+    color: #777777;
+    font-size: 0.8125em;
+    line-height: 1.96923em;
+    margin: 12.8px 0;
+    padding: 0 1%;
+        padding-top: 0px;
+        padding-right: 1%;
+        padding-bottom: 0px;
+        padding-left: 1%;
 }
 @media screen and (max-width: 48rem) {
     .site-header {

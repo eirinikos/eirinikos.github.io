@@ -1,15 +1,19 @@
-title: vida
-baseurl: "/vida"
+# SITE CONFIG
+baseurl: ""
+url: "http://127.0.0.1:4000"
+title: "andrea kao 高沁蘭"
+timezone: TIMEZONE
 
 date_format: "%Y-%m-%d"
+paginate: 7
+paginate_path: "/page:num/"
 
-# Build settings
+# 3rd party scripts, leave empty to disable
+google_analytics: "UA-73098936-1"
+disqus_shortname:
+
+# BUILD SETTINGS
 markdown: redcarpet
 redcarpet:
   extensions: ["smart", "tables", "with_toc_data"]
 permalink: pretty
-
-# Third-party services
-# just leave someone empty to disable it
-google_analytics:
-disqus_shortname:
