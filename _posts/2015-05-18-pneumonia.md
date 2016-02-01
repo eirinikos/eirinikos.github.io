@@ -6,7 +6,7 @@ date: 2015-05-18
 
 So - it was pneumonia, all along. That is, it still is. It's been three and a half weeks since the cloudy Wednesday afternoon when the fever set in (the fever I didn't realize was a fever). I've made some tenuous but tangible progress in the past week or so. The end - the real end - is finally nigh. Boy, what an adventure this has been. To think I had bought a fresh chicken that day in April and surmised that I might even make coq au vin that weekend, if not that very afternoon!
 
-![]({{site.baseurl}}/images/2015-q2/coqauvin.jpg)
+![]({{site.github.url}}/images/2015-q2/coqauvin.jpg)
 <figcaption class="caption">Photo is from <a href="http://www.boston.com/lifestyle/food/articles/2011/03/02/timeless_coq_au_vin_makes_the_most_of_simple_ingredients/">here</a>.</figcaption>
 
 When the coq au vin was eventually made, it was by Justin, and it turned out so disturbingly purple-brown with wine that I couldn't bring myself to eat it for days. I must have thought it resembled organ meat too much to be appetizing.
