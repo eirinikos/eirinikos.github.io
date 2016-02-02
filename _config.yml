@@ -12,7 +12,7 @@ google_analytics: "UA-73098936-1"
 disqus_shortname:
 
 # BUILD SETTINGS
-markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "tables", "with_toc_data"]
+markdown: kramdown
+# redcarpet:
+#   extensions: ["smart", "tables", "with_toc_data"]
 permalink: pretty
