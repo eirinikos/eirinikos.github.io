@@ -4,7 +4,9 @@ title: "andrea kao 高沁蘭"
 timezone: TIMEZONE
 
 date_format: "%Y-%m-%d"
-paginate: 7
+
+gems: [jekyll-paginate]
+paginate: 8
 paginate_path: "/page:num/"
 
 # 3rd party scripts, leave empty to disable
