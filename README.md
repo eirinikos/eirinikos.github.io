@@ -1,9 +1,3 @@
-vida
----------
+###Greetings!
 
-vida is a simple and beautiful jekyll theme.
-You can see a demo [here](http://syaning.com/vida/).
-
-### License
-
-MIT
+This is the repository for my Github Pages site, which was created with the [vida](http://syaning.com/vida/) Jekyll theme.
