@@ -13,6 +13,7 @@ main {
         }
     }
     .site-nav {
+    font-weight: 600;
         > a {
             color: $text-color;
             &:hover {
