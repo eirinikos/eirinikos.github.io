@@ -3,7 +3,7 @@ layout:    page
 permalink: /about/
 ---
 
-I'm a Los Angeles homeowner, map enthusiast, plant lover, and audiophile.
+I'm a Los Angeles homeowner, map enthusiast, plant lover, pianist, and audiophile.
 
 Ruby is my native programming language. I'm learning Javascript with a mixture of optimism and trepidation. Biweekly pair-programming nights in Little Tokyo are helping with the pain.
 
