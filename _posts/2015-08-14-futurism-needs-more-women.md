@@ -4,7 +4,7 @@ title: Futurism Needs More Women
 date: 2015-08-14
 ---
 
-<img src="/images/2015-q3/derverkehrderzukunft.jpg" width="90%" height="90%"/>
+<img src="/images/2015-q3/derverkehrderzukunft.jpg" alt="der verkehrderzukunft" width="90%" height="90%"/>
 
 [This was an awesome read from The Atlantic.](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097)
 

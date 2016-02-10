@@ -4,7 +4,7 @@ title: New Year in L.A.
 date: 2016-01-01
 ---
 
-![]({{site.github.url}}/images/2016-01/northern-lights.jpg)
+![northern lights]({{site.github.url}}/images/2016-01/northern-lights.jpg)
 <figcaption class="caption">Photo is from <a href="http://www.cbc.ca/news/technology/solar-storm-northern-lights-near-years-eve-1.3384756">here</a></figcaption>
 
 Solved [this Project Euler problem](https://projecteuler.net/problem=10) at the Toronto airport. Our flight ended up taking off an hour and a half later than its original scheduled time. HOWEVER, thirty minutes into our return flight tonight, the pilot informed everyone that the AURORA BOREALIS was visible from the right side of the plane.

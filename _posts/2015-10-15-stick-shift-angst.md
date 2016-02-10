@@ -4,7 +4,7 @@ title: stick shift angst
 date: 2015-10-15
 ---
 
-![]({{site.github.url}}/images/2015-q4/stick_shift_cat.jpg)
+![i should learn to drive stick shift]({{site.github.url}}/images/2015-q4/stick_shift_cat.jpg)
 
 I get infrequent practice with stick shift, and a part of me really thinks that I'll just never grow comfortable with it. However, at the risk of drawing some cheesy comparisons to learning programming, today I realized a few things that helped me overcome some heavy trepidation - not unlike the heavy, near-constant, soul-crushing trepidation I feel about my beginning steps as a coder.
 

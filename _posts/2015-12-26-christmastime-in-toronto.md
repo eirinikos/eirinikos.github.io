@@ -4,7 +4,7 @@ title: Christmastime in Toronto
 date: 2015-12-26
 ---
 
-<img src="/images/2015-q4/img_4444.jpg" width="90%" height="90%"/>
+<img src="/images/2015-q4/img_4444.jpg" alt="palos verdes peninsula" width="90%" height="90%"/>
 <figcaption class="caption">Palos Verdes peninsula</figcaption>
 
 We left town on a 7:00 a.m. flight today - first the plane raced westward off the runway towards the ocean, westward towards the Channel Islands. Then it curved towards Catalina and eventually looped back over a grand view of the Palos Verdes Peninsula and Long Beach's docks. Downtown Los Angeles' skyscrapers became a mere outcropping of concrete sticks in the distance. Beyond those sticks, the Mount Wilson observatory was a mere blip in the San Gabriel Mountains, and beyond those mountains the desert sprawled out until I decided to slump back in my seat, fall asleep, and then awaken to find ourselves above some snow-dusted red-sand canyons outside the Grand Canyon.

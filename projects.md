@@ -7,7 +7,7 @@ This page is a constant work-in-progress!
 
 - [LA Region Library Map](https://github.com/rhubarb-crew/la-region-library-map)
 
->##### A collaboration with fellow [Maptimer](https://github.com/maptimeLA/), Nina Kin
+>##### A collaboration with fellow [Maptimers](https://github.com/maptimeLA/), Nina Kin and Kenny Lee.
 
 - [Tic Tac Toe!](https://github.com/eirinikos/ruby-bites#tictactoerb)
 
