@@ -5,11 +5,13 @@ permalink: /about/
 
 I'm a Los Angeles homeowner, map enthusiast, plant lover, pianist, and audiophile.
 
-Ruby is my native programming language. I'm learning Javascript with a mixture of optimism and trepidation.
+Ruby is my native programming language. I've been learning JS with a mixture of optimism and trepidation.
 
-Open educational resources, open-source mapping, and open-anything that lets us better understand the world we live in - these are among the things that inspired me to wonder what I could contribute during my time on earth. 
+I’ve always been fascinated with science and math, but I’ve also spent most of my life assuming that computer science was the most boring thing on earth. The past year has shown me that programming isn't just intellectually invigorating; it's also a powerful medium of collaboration - an awesome tool for ["collaborative logic-making"](http://collectiveidea.com/blog/archives/2013/02/25/becoming-a-rubyist/).
 
-I also love studying human languages and reading about linguistics. Every now and then I dip into [Duolingo](http://duolingo.com) or [Babbel](http://babbel.com) to play with languages familiar and unfamiliar, or I try to compose nonsensical sentences in 廣東話 (in the offline world).
+As a software developer, I’m fascinated with maps as conduits for data sharing, visualization and interaction. I’m also interested in how technology facilitates language acquisition, translation, education, and community engagement - in essence, things that grow our understanding of the world we live in.
+
+I also love studying human languages and [reading about linguistics](http://languagelog.ldc.upenn.edu/nll/). Every now and then I dip into [Duolingo](http://duolingo.com) or [Babbel](http://babbel.com) to play with languages familiar and unfamiliar, or I try to compose nonsensical sentences in 廣東話 (in the offline world).
 
 You can reach me at andrealankao at gmail dot com.
 
