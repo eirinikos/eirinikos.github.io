@@ -34,4 +34,4 @@ This nugget below pipes the `stdout` of the `cat` command as `stdin` to the comm
 <p style="padding-left: 30px;"><strong>$ cat running_gun_blues.txt | wc</strong></p>
 ---
 
-More in a later post.
+More in a later post... someday.
