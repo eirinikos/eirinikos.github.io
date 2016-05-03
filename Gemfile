@@ -5,5 +5,5 @@ require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 gem 'github-pages', versions['github-pages']
 
-gem 'jekyll', '3.0.3'
+gem 'jekyll', '3.0.5'
 # gem 'redcarpet'
