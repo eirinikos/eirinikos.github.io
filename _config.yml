@@ -6,6 +6,8 @@ timezone: TIMEZONE
 date_format: "%Y-%m-%d"
 
 gems: [jekyll-feed, jekyll-paginate]
+feed:
+  path: atom.xml
 
 paginate: 8
 paginate_path: "/page:num/"

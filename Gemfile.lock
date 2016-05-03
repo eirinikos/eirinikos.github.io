@@ -130,4 +130,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 77)
   jekyll (= 3.0.5)
+  jekyll-feed
   json
