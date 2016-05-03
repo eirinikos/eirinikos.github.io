@@ -9,7 +9,7 @@ Ruby is my native programming language. I've been learning JS with a mixture of 
 
 I’ve always been fascinated with science and math, but I’ve spent most of my life so far assuming that computer science was the most boring thing on earth. The past year has shown me that programming isn't just intellectually invigorating; it's a powerful medium of collaboration, too - an awesome tool for ["collaborative logic-making"](http://collectiveidea.com/blog/archives/2013/02/25/becoming-a-rubyist/).
 
-I enjoy maps as conduits for data sharing, visualization and interaction. I’m also interested in how technology facilitates language acquisition, translation, education, and community engagement - in essence, things that grow our understanding of the world we live in.
+I enjoy maps as conduits for data sharing, visualization and interaction. I’m also interested in how technology facilitates language acquisition, translation, education, and community engagement -- in essence, things that grow our understanding of the world we live in.
 
 I love studying human languages and [reading about linguistics](http://languagelog.ldc.upenn.edu/nll/), too. Every now and then I dip into [Duolingo](http://duolingo.com) or [Babbel](http://babbel.com) to play with languages familiar and unfamiliar, or I try to compose nonsensical sentences in 廣東話 (in the offline world). French, Chinese, Portuguese, and Spanish are languages that I have studied at length.
 
