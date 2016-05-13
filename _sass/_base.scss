@@ -36,6 +36,7 @@ img {
     max-width: 100%;
 }
 table {
+    margin: 1.5rem;
     border-collapse: separate;
     border-spacing: 0;
     max-width: 100%;
@@ -60,7 +61,7 @@ pre {
     overflow-x: auto;
 }
 code {
-    font-family: 'Courier New',Consolas,monopace;
+    font-family: 'Courier New',Consolas,monospace;
 }
 hr {
     border: none;
