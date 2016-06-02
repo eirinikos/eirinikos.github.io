@@ -4,6 +4,7 @@ title: "andrea kao 高沁蘭"
 timezone: TIMEZONE
 
 date_format: "%Y-%m-%d"
+future: true
 
 gems: [jekyll-feed, jekyll-paginate]
 feed:
