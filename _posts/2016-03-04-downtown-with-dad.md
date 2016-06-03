@@ -5,8 +5,7 @@ date: 2016-03-04
 ---
 
 ![Broad Museum entrance]({{site.github.url}}/images/2016-03/diller-scofidio-renfro-broad.jpg)
-
-<figcaption class="caption">Broad Museum entrance (image is from <a href="http://afasiaarchzine.com/2015/08/diller-scofidiorenfro">here</a>).</figcaption>
+<span class="caption">Broad Museum entrance (image is from <a href="http://afasiaarchzine.com/2015/08/diller-scofidiorenfro">here</a>).</span>
 
 My dad and his neighbor drove down from Simi Valley this morning to spend a nice downtowny couple of hours with me. He's a septuagenarian armchair technology enthusiast who's thrilled with the idea of what The Future is bringing us **right meow**. So I figured it'd be not only convenient but exciting for my dad to grab a Lyft ride from my building to the Broad Museum - his first Lyft/Uber ride.
 

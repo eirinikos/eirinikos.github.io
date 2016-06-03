@@ -5,7 +5,7 @@ date: 2016-03-20
 ---
 
 ![Poppy blossom]({{site.github.url}}/images/2016-03/poppy.jpg)
-<figcaption class="caption">My first mahogany red poppy blossom (<i>Eschscholzia californica</i>)</figcaption>
+<span class="caption">My first mahogany red poppy blossom (<i>Eschscholzia californica</i>)</span>
 
 I feel like this weekend has been an ongoing toast to life - if that doesn't sound too trite. It started with a solid cup of caffeine (the socially acceptable way to toast life in the waking hours) and continued with an all-day [Rails Girls](http://railsgirls.com/la) Saturday workshop. It was easily the most enjoyable tech event I've participated in thus far - brimming over with joy and positivity - and learning, and building, and encouragement, and optimism! And heart!
 

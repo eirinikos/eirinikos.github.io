@@ -5,7 +5,8 @@ date: 2015-12-30
 ---
 
 ![snow bear]({{site.github.url}}/images/2015-q4/snow_bear.jpg)
-<figcaption class="caption">Snow Bear II, North York, Toronto, ON</figcaption>
+
+<span class="caption">Snow Bear II, North York, Toronto, ON</span>
 
 Today's crowning achievement was either helping with the driveway shoveling, or helping craft this snow bear. Wooh!
 

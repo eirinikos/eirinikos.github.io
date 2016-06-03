@@ -6,7 +6,7 @@ date: 2016-02-15
 
 ![Roy Lichtenstein's Drowning Girl]({{site.github.url}}/images/2016-02/Roy_Lichtenstein_Drowning_Girl.jpg)
 
-<figcaption class="caption">Roy Lichtenstein's <a href="https://en.wikipedia.org/wiki/Drowning_Girl"><i>Drowning Girl</i></a></figcaption>
+<span class="caption">Roy Lichtenstein's <a href="https://en.wikipedia.org/wiki/Drowning_Girl"><i>Drowning Girl</i></a></span>
 
 One of the things I've been doing over the past week is explore Odin Project's [Web Development 101 curriculum](http://www.theodinproject.com/web-development-101). It's good stuff! I particularly enjoyed reading the [Bastards Book](http://ruby.bastardsbook.com/) chapters on [web scraping](http://ruby.bastardsbook.com/chapters/web-scraping/) and [web inspecting](http://ruby.bastardsbook.com/chapters/web-inspecting-html/), among other things.
 
