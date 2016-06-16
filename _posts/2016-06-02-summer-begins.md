@@ -2,6 +2,7 @@
 layout: post
 title: Summer begins
 date: 2016-06-02
+homebrew: true
 ---
 
 ![Joshua Tree, Jumbo Rocks, Justin]({{site.github.url}}/images/2016-06/joshua-jumbo-justin.jpg)

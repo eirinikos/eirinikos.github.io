@@ -2,6 +2,7 @@
 layout: post
 title: What is Homebrew?
 date: 2016-05-13
+homebrew: true
 ---
 
 ![Homebrew](https://avatars0.githubusercontent.com/u/1503512?v=3&s=400)
@@ -62,7 +63,7 @@ Here's a table showing where everything resides on your computer:
       <td><strong>keg</strong></td>
       <td><code>/usr/local/Cellar/foo/0.1</code></td>
     </tr>
-  </tbody>  
+  </tbody>
 </table>
 
 In the screenshot below, you'll see the command-line output resulting from running `brew install` <a href="https://rg3.github.io/youtube-dl/"><code>youtube-dl</code></a>. After downloading and "pouring" the [tarball](https://en.wikipedia.org/wiki/Tar_(computing)#File_format) for OS X Yosemite, voilà! Homebrew displays a cute beer mug emoji and confirms the files that were written to the Cellar. `youtube-dl` is ready to be used, all thanks to a single line of command-line input!!
