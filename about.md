@@ -3,7 +3,7 @@ layout:    page
 permalink: /about/
 ---
 
-I'm a California native, Los Angeles homeowner, plant lover, map lover, audiophile, and wordy person. I'm also a new [Homebrew](http://brew.sh/) contributor; <span style="background-color: #ffdb4d">related posts are highlighted yellow</span>.
+I'm a California native, Los Angeles homeowner, plant lover, map lover, audiophile, and wordy person. I'm also a new [Homebrew](http://brew.sh/) contributor by way of [Outreachy](https://www.gnome.org/outreachy/); <span style="background-color: #ffdb4d">posts related to Outreachy and Homebrew are highlighted yellow</span>.
 
 I’ve always been fascinated with science and math, but I’ve spent most of my life so far assuming that computer science was the most boring thing on earth. The past couple years have shown me that programming isn't just intellectually invigorating; it's a powerful medium of collaboration, too - an awesome tool for ["collaborative logic-making"](http://collectiveidea.com/blog/archives/2013/02/25/becoming-a-rubyist/). And yep, Ruby is my native programming language. <3
 
