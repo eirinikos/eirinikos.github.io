@@ -53,3 +53,17 @@ All of Homebrew’s repositories are hosted on Github. I reference Homebrew’s 
 - check Ruby Docs and [Homebrew’s extended modules & classes](https://github.com/Homebrew/brew/blob/master/Library/Homebrew/extend/)
 - check Homebrew’s [Formula](http://www.rubydoc.info/github/Homebrew/brew/master/Formula) API
 - ask a maintainer (via GitHub or Slack)
+
+**More screenshots!...**
+
+My main task this summer has been to increase Homebrew's test coverage. Running **`brew tests`** tells **`rake`** to run all of the unit and integration tests that live inside the **`Homebrew/test`** directory. Adding the **`--coverage`** option tells SimpleCov to generate an HTML report that you can view in your browser.
+
+![brew tests]({{site.github.url}}/images/2016-08/brew_tests.png)
+
+Here's a recent SimpleCov report! (It lives at **`Homebrew/test/coverage/index.html`**.) Almost all of my work has involved testing **`brew commands`**, so the **`Homebrew/cmd`** files are what I'm particularly concerned with.
+
+![simplecov]({{site.github.url}}/images/2016-08/simplecov.png)
+
+And here's the checklist you're asked to complete before you submit a pull request to the **`Homebrew/brew`** repo:
+
+![pr checklist]({{site.github.url}}/images/2016-08/pr_checklist.png)
