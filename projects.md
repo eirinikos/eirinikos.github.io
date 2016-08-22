@@ -86,7 +86,7 @@ This was the last of the four Bloc applications I made with Matt. It returns JSO
 
 >##### A analytics service API.
 
-This project acquainted me with how a web analytics works, among other things. With the client-side JS snippet, a user tracks events on their website. The server-side API captures and save those events to a database, and the captured event data is displayed back to the user in the form of pretty pie and line charts.
+This project acquainted me with how web analytics work, among other things. With the client-side JS snippet, a user tracks events on their website. The server-side API captures and save those events to a database, and the captured event data is displayed back to the user in the form of pretty pie and line charts.
 
 <h3><a href="https://kao-bloccitoff.herokuapp.com">Bloccitoff</a></h3>
 
@@ -98,4 +98,4 @@ This classic to-do list project has an added twist - it automatically destroys i
 
 >##### A replica of Reddit.
 
-This was my first project with my Bloc mentor, Matthieu Tanguay-Carel.
+This was my first Rails project with my Bloc mentor, Matthieu Tanguay-Carel.
