@@ -44,7 +44,7 @@ So far, most of 2016 has been consumed with learning about what makes Homebrew t
 
 This is a list of pull requests I've made for Homebrew's core formula tap. Getting to know Homebrew in the first place has meant running **`brew audit`** or **`brew audit --strict`** and fixing some of the warnings that arise for various core formula files. Sifting through formula files and even adding a test for one formula have been good ways to get acquainted with Homebrew's core functions.
 
-- [**`brew audit`**: remove inreplace do block](https://github.com/Homebrew/homebrew-core/pull/3402)
+- [**`brew audit`**: remove **`inreplace do`** block](https://github.com/Homebrew/homebrew-core/pull/3402)
 	- 3 formulae: **pev**, **genstats**, and **flac**
 - [**`brew audit`**: remove golang requirement](https://github.com/Homebrew/homebrew-core/pull/2917)
 	- 6 formulae: **path-extractor**, **noti**, **fabio**, **emp**, **docker-machine-driver-xhyve**, and **assh**
